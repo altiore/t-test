@@ -3,6 +3,10 @@
   --tg-theme-button-color: #63d0f9;
   --tg-theme-button-text-color: black;
 }
+html, body {
+  margin: 0;
+  padding: 0;
+}
 
 .App {
   height: 100vh;
